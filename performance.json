@@ -1,1 +1,23 @@
 
+{
+  "data": {
+    "factors": [
+      "closing deals",
+      "better for data interchange",
+      "meeting clients",
+      "Updating status",
+      "Claiming leads"
+    ],
+    "leaderboard": [
+      {
+        "volume_data": "6.0M"
+      },
+      {
+        "brokerage": "1/4"
+      },
+      {
+        "regional": "2/82"
+      }
+    ]
+  }
+}
