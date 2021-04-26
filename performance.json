@@ -1,23 +1,33 @@
-
 {
-  "data": {
-    "factors": [
-      "closing deals",
-      "better for data interchange",
-      "meeting clients",
-      "Updating status",
-      "Claiming leads"
-    ],
-    "leaderboard": [
-      {
-        "volume_data": "6.0M"
-      },
-      {
-        "brokerage": "1/4"
-      },
-      {
-        "regional": "2/82"
-      }
-    ]
-  }
+  "factors": [
+    {
+      "title": "Your COZMO Score"
+    },
+    {
+      "heading": "Success factors"
+    },
+    {
+      "factor": "closing deals"
+    },
+    {
+      "factor": "Meeting clients"
+    },
+    {
+      "factor": "Updating status"
+    },
+    {
+      "factor": "Claiming leads"
+    }
+  ],
+  "leaderboard": [
+    {
+      "volume_data": "6.0M"
+    },
+    {
+      "brokerage_data": "1/4"
+    },
+    {
+      "regional_data": "2/82"
+    }
+  ]
 }
