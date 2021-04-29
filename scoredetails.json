@@ -1,0 +1,35 @@
+{
+  "factors": [
+    {
+      "title": "Closing deals",
+      "description": "5 closed out of 14 met",
+      "info": "That's better than 94% of COZMO agents. Fantastic jobl"
+    },
+    {
+      "title": "Meeting Clients",
+      "description": "3 out of 18 met in first week",
+      "info": "That's better than 94% of COZMO agents. Fantastic jobl"
+    },
+    {
+      "title": "Updating Status",
+      "description": "85% updated daily",
+      "info": "That's better than 94% of COZMO agents. Fantastic jobl"
+    },
+    {
+      "title": "Claiming Leads",
+      "description": "85% updated daily",
+      "info": "That's better than 94% of COZMO agents. Fantastic jobl"
+    },
+    {
+      "title": "Updating Status",
+      "description": "85% updated daily",
+      "info": "That's better than 94% of COZMO agents. Fantastic jobl"
+    }
+  ],
+  "header": [
+    {
+      "heading": "Your COZMO Score",
+      "subheading": "Indiacates how you rank compared to other Cozmo agents based on the success factors below"
+    }
+  ]
+}
