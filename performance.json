@@ -1,23 +1,12 @@
 {
   "factors": [
     {
-      "title": "Your COZMO Score"
+      "title": "Cup of Coffee Anyone",
+      "img": "https://cache.marriott.com/marriottassets/marriott/PNQMD/pnqmd-dining-5142-hor-feat.jpg?downsize=1440px:*"
+    },{
+      "title": "Your COZMO Score",
+      "img": "https://cache.marriott.com/marriottassets/marriott/PNQMD/pnqmd-dining-5142-hor-feat.jpg?downsize=1440px:*"
     },
-    {
-      "heading": "Success factors"
-    },
-    {
-      "factor": "closing deals"
-    },
-    {
-      "factor": "Meeting clients"
-    },
-    {
-      "factor": "Updating status"
-    },
-    {
-      "factor": "Claiming leads"
-    }
   ],
   "leaderboard": [
     {
